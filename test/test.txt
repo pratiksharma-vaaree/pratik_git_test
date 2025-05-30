@@ -1,0 +1,2 @@
+-- Create text file with SQL Code
+-- .py file to call the SQL code and run the script and attach the same to airflow for scheduling
